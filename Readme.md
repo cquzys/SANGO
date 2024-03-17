@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/773208711.svg)](https://zenodo.org/doi/10.5281/zenodo.10826453)
+
 ![](figures/model.png)
 
 <font size=4> We propose a novel method, SANGO, for accurate single cell annotation by integrating genome sequences around the accessibility peaks within scATAC data.  </font> <br><br>
